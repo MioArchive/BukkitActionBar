@@ -1,0 +1,6 @@
+name: 'BukkitActionBarPlugin'
+version: '1.0'
+main: 'eu.javamio.ActionBar'
+api-version: '1.18'
+author: 'Mio'
+description: 'This is a simple ActionBar Plugin for Minecraft bukkit Servers!'
